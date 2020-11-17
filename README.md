@@ -8,5 +8,7 @@ Here is a small problem for you. You will have to use list, and dictionary to cr
 # Input format:
 When using this solution, your input's syntax will matter.
 Be sure to add spaces between number and operands. Also, ensure that each operation is between parentheses.
+
 Example 01: (+ 1 2)
+
 Example 02: (* (* (+ 3 4) (+ 3 4)) (* (+ 1 2) (- 11 5)))
